@@ -135,3 +135,5 @@ Done:
 Click on that IP: WEBSITE!
 
 E.x. [http://35.196.184.168/](http://35.196.184.168/)
+
+Now remember to add your IP for your site to the *LAST LINE* of your markdown file in https://github.com/COSCS340/students !
